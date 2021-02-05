@@ -18,7 +18,7 @@ public class JavaIntToString {
 
 			//Soluction starts here
 			String s = String.valueOf(n);
-			//Soluction starts here
+			//Soluction ends here
 
 			if (n == Integer.parseInt(s)) {
 				System.out.println("Good job");
