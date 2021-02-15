@@ -1,4 +1,4 @@
-package br.com.andersongni.hackerrank.datastructures;
+package br.com.andersongni.hackerrank.strings;
 
 import java.util.Scanner;
 
